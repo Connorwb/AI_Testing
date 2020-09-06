@@ -1,0 +1,2 @@
+D:\AITesting\AI_Testing\LogicGateNN\Debug\LogicGateNN.exe
+D:\AITesting\AI_Testing\LogicGateNN\Debug\LogicGateNN.pdb
